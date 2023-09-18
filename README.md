@@ -1,1 +1,1 @@
-Look at Dog.rmd for nicely formated code and outputs.
+Look at Dog.Rmd for nicely formated code and outputs.
